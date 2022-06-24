@@ -6,7 +6,7 @@ The goal of this project is to visualize percentage of deaths of countries.
 Using a SIPRI dataset, DEATH_RATE can visualize percentage of deaths of up to four countries.
 
 The SIPRI dataset is downloadable from:
-
+https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/EXCEL_FILES/3_Mortality/WPP2019_MORT_F02_CRUDE_DEATH_RATE.xlsx
 
 # How to install DEATH_RATE on Linux, MacOS, or WSL on Windows
 You may need matplotlib library.
